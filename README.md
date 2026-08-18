@@ -4,52 +4,41 @@
 
 ### `AI • SOFTWARE • BUILDER`
 
-Building things, breaking things, learning things.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+things+that+actually+work.;Learning+AI+%2B+Software+Engineering.;Turning+ideas+into+projects.;Always+learning.+Always+building." />
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=anshumaaann&style=for-the-badge&color=0e75b6)
-![GitHub Followers](https://img.shields.io/github/followers/anshumaaann?style=for-the-badge)
-![GitHub Stars](https://img.shields.io/github/stars/anshumaaann?style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=anshumaaann&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/anshumaaann?style=for-the-badge&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/stars/anshumaaann?style=for-the-badge&label=STARS" />
 
 </div>
+
+<br>
 
 ---
 
 <div align="center">
 
-## ⚡ ABOUT ME
+## ⚡ SYSTEM PROFILE
 
 </div>
 
 <table>
 <tr>
-<td width="50%">
+<td width="55%">
 
-### 👨‍💻 Who I Am
+### 👨‍💻 About Me
 
-- 🎓 Computer Science student
-- 🤖 Interested in Artificial Intelligence
-- 💻 Software & application development
-- 🧠 Currently improving DSA & problem solving
-- 🚀 Always building something
-- 📚 Learning by actually making things
+I'm a Computer Science student interested in **Artificial Intelligence, Software Development and Problem Solving**.
 
-</td>
-
-<td width="50%">
-
-### 🎯 Current Focus
+I like learning by building real things rather than only studying theory.
 
 ```text
-AI / ML
-████████████░░░░  75%
-
-Software Development
-███████████░░░░░  70%
-
-DSA
-████████░░░░░░░░  55%
-
-Problem Solving
-█████████░░░░░░░  60%
+CURRENT MODE
+────────────────────────────
+→ Learn
+→ Build
+→ Debug
+→ Improve
+→ Repeat
