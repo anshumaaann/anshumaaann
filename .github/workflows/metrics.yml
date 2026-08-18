@@ -1,4 +1,4 @@
-name: GitHub Profile Metrics
+name: GitHub Profile Dashboard
 
 on:
   schedule:
@@ -9,62 +9,110 @@ on:
       - main
 
 jobs:
-
   profile:
     runs-on: ubuntu-latest
+
     permissions:
       contents: write
 
     steps:
-      - name: 📊 Profile Overview
+      - name: Generate GitHub Profile Dashboard
         uses: lowlighter/metrics@latest
         with:
-          filename: github-metrics.svg
+          filename: profile.svg
           token: ${{ secrets.METRICS_TOKEN }}
 
-          base: header, activity, community, repositories, metadata
-          base_indepth: yes
+          user: anshumaaann
 
-          config_timezone: Asia/Kolkata
+          # Large wide dashboard
+          config_display: large
 
+          # Main profile sections
+          base: header,activity,community,repositories,metadata
 
-  contributions:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
-    steps:
-      - name: 🧊 Contribution Calendar
-        uses: lowlighter/metrics@latest
-        with:
-          filename: isocalendar.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-
-          base: ""
-
+          # -------------------------
+          # CONTRIBUTION CALENDAR
+          # -------------------------
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          plugin_isocalendar_duration: full-year
 
-          config_timezone: Asia/Kolkata
-
-
-  languages:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
-    steps:
-      - name: 🈷️ Languages
-        uses: lowlighter/metrics@latest
-        with:
-          filename: languages.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-
-          base: ""
-
+          # -------------------------
+          # LANGUAGES
+          # -------------------------
           plugin_languages: yes
           plugin_languages_limit: 6
-          plugin_languages_details: percentage
           plugin_languages_sections: most-used
+          plugin_languages_details: bytes-size,percentage
+          plugin_languages_other: yes
 
-          config_timezone: Asia/Kolkata
+          # -------------------------
+          # CODING HABITS
+          # -------------------------
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_habits_languages_limit: 6
+
+          # -------------------------
+          # RECENT ACTIVITY
+          # -------------------------
+          plugin_activity: yes
+          plugin_activity_limit: 8
+          plugin_activity_days: 14
+          plugin_activity_filter: issue,pr,release,fork,review,ref/create
+
+          # -------------------------
+          # ACHIEVEMENTS
+          # -------------------------
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+
+          # -------------------------
+          # STARS
+          # -------------------------
+          plugin_stargazers: yes
+
+          # -------------------------
+          # REPOSITORIES
+          # -------------------------
+          plugin_repositories: yes
+          plugin_repositories_pinned: 4
+
+          # -------------------------
+          # COMMIT CALENDAR
+          # -------------------------
+          plugin_calendar: yes
+
+          # -------------------------
+          # LINES OF CODE
+          # -------------------------
+          plugin_lines: yes
+
+          # -------------------------
+          # RECENTLY STARRED
+          # -------------------------
+          plugin_stars: yes
+          plugin_stars_limit: 4
+
+          # -------------------------
+          # NOTABLE CONTRIBUTIONS
+          # -------------------------
+          plugin_notable: yes
+
+          # -------------------------
+          # FOLLOWERS
+          # -------------------------
+          plugin_people: yes
+          plugin_people_types: followers
+
+          # -------------------------
+          # OUTPUT
+          # -------------------------
+          output_action: commit
+          committer_branch: main
+          committer_message: "Update GitHub profile dashboard"
+          committer_username: github-actions[bot]
+          committer_email: 41898282+github-actions[bot]@users.noreply.github.com
+
+          delay: 120
+          plugins_errors_fatal: no
