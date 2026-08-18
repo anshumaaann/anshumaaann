@@ -1,16 +1,55 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**anshumaaann/anshumaaann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ANSHUMAN MISHRA
 
-Here are some ideas to get you started:
+### `AI • SOFTWARE • BUILDER`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building things, breaking things, learning things.
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=anshumaaann&style=for-the-badge&color=0e75b6)
+![GitHub Followers](https://img.shields.io/github/followers/anshumaaann?style=for-the-badge)
+![GitHub Stars](https://img.shields.io/github/stars/anshumaaann?style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ ABOUT ME
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 👨‍💻 Who I Am
+
+- 🎓 Computer Science student
+- 🤖 Interested in Artificial Intelligence
+- 💻 Software & application development
+- 🧠 Currently improving DSA & problem solving
+- 🚀 Always building something
+- 📚 Learning by actually making things
+
+</td>
+
+<td width="50%">
+
+### 🎯 Current Focus
+
+```text
+AI / ML
+████████████░░░░  75%
+
+Software Development
+███████████░░░░░  70%
+
+DSA
+████████░░░░░░░░  55%
+
+Problem Solving
+█████████░░░░░░░  60%
