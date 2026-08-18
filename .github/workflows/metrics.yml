@@ -87,31 +87,6 @@ jobs:
           config_timezone: Asia/Kolkata
 
 
-  # ─────────────────────────────────────────────
-  # CODING HABITS
-  # ─────────────────────────────────────────────
-
-  habits:
-    runs-on: ubuntu-latest
-
-    permissions:
-      contents: write
-
-    steps:
-      - name: 📊 Coding habits
-        uses: lowlighter/metrics@latest
-        with:
-          filename: habits.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-
-          base: ""
-
-          plugin_habits: yes
-          plugin_habits_charts: yes
-          plugin_habits_facts: yes
-
-          config_timezone: Asia/Kolkata
-
 
   # ─────────────────────────────────────────────
   # ACHIEVEMENTS
