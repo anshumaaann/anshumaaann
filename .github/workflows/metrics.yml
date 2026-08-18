@@ -3,27 +3,20 @@ name: GitHub Profile Metrics
 on:
   schedule:
     - cron: "0 0 * * *"
-
   workflow_dispatch:
-
   push:
     branches:
       - main
 
 jobs:
 
-  # ─────────────────────────────────────────────
-  # PROFILE OVERVIEW
-  # ─────────────────────────────────────────────
-
   profile:
     runs-on: ubuntu-latest
-
     permissions:
       contents: write
 
     steps:
-      - name: 📊 Profile overview
+      - name: 📊 Profile Overview
         uses: lowlighter/metrics@latest
         with:
           filename: github-metrics.svg
@@ -35,18 +28,13 @@ jobs:
           config_timezone: Asia/Kolkata
 
 
-  # ─────────────────────────────────────────────
-  # ISOMETRIC CONTRIBUTION CALENDAR
-  # ─────────────────────────────────────────────
-
   contributions:
     runs-on: ubuntu-latest
-
     permissions:
       contents: write
 
     steps:
-      - name: 🧊 Isometric contribution calendar
+      - name: 🧊 Contribution Calendar
         uses: lowlighter/metrics@latest
         with:
           filename: isocalendar.svg
@@ -60,13 +48,8 @@ jobs:
           config_timezone: Asia/Kolkata
 
 
-  # ─────────────────────────────────────────────
-  # LANGUAGES
-  # ─────────────────────────────────────────────
-
   languages:
     runs-on: ubuntu-latest
-
     permissions:
       contents: write
 
@@ -83,57 +66,5 @@ jobs:
           plugin_languages_limit: 6
           plugin_languages_details: percentage
           plugin_languages_sections: most-used
-
-          config_timezone: Asia/Kolkata
-
-
-
-  # ─────────────────────────────────────────────
-  # ACHIEVEMENTS
-  # ─────────────────────────────────────────────
-
-  achievements:
-    runs-on: ubuntu-latest
-
-    permissions:
-      contents: write
-
-    steps:
-      - name: 🏆 Achievements
-        uses: lowlighter/metrics@latest
-        with:
-          filename: achievements.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-
-          base: ""
-
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-
-          config_timezone: Asia/Kolkata
-
-
-  # ─────────────────────────────────────────────
-  # RECENT ACTIVITY
-  # ─────────────────────────────────────────────
-
-  activity:
-    runs-on: ubuntu-latest
-
-    permissions:
-      contents: write
-
-    steps:
-      - name: 🔥 Recent activity
-        uses: lowlighter/metrics@latest
-        with:
-          filename: activity.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-
-          base: ""
-
-          plugin_activity: yes
-          plugin_activity_limit: 8
-          plugin_activity_days: 30
 
           config_timezone: Asia/Kolkata
