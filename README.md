@@ -2,13 +2,27 @@
 
 # ANSHUMAN MISHRA
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+%7C+SOFTWARE+%7C+BUILDER;Computer+Science+Student;Learning+%E2%80%A2+Building+%E2%80%A2+Improving;Welcome+to+my+GitHub." />
+### `AI • SOFTWARE • BUILDER`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+%7C+Software+%7C+Builder;Learning+by+building.;Turning+ideas+into+working+systems.;Always+learning.+Always+building." />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=anshumaaann&style=for-the-badge&label=PROFILE+VIEWS&color=161B22" />
-<img src="https://img.shields.io/github/followers/anshumaaann?style=for-the-badge&label=FOLLOWERS&color=161B22" />
-<img src="https://img.shields.io/github/stars/anshumaaann?style=for-the-badge&label=STARS&color=161B22" />
+<img src="https://komarev.com/ghpvc/?username=anshumaaann&style=for-the-badge&label=PROFILE+VIEWS">
+<img src="https://img.shields.io/github/followers/anshumaaann?style=for-the-badge&label=FOLLOWERS">
+<img src="https://img.shields.io/github/stars/anshumaaann?style=for-the-badge&label=STARS">
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ ABOUT ME
+
+Computer Science student focused on **AI, Software Development & Problem Solving**.
+
+`LEARN` → `BUILD` → `BREAK` → `FIX` → `IMPROVE`
 
 </div>
 
@@ -16,35 +30,126 @@
 
 <div align="center">
 
-## ⚡ ABOUT ME
+## 🛠️ TECH STACK
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,git,github,vscode,tensorflow,pytorch&perline=6">
 
 </div>
 
-<table>
+---
+
+<div align="center">
+
+# 📊 GITHUB ANALYTICS
+
+<a href="https://github.com/anshumaaann">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=anshumaaann&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true">
+</a>
+
+<a href="https://github.com/anshumaaann">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshumaaann&layout=compact&theme=github_dark&hide_border=true&langs_count=8">
+</a>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=anshumaaann&theme=github-dark-blue&hide_border=true" width="80%">
+
+</div>
+
+---
+
+<div align="center">
+
+# 🧊 CONTRIBUTION MATRIX
+
+<img src="./isocalendar.svg" width="95%">
+
+</div>
+
+---
+
+<div align="center">
+
+# 📡 GITHUB TELEMETRY
+
+<img src="./github-metrics.svg" width="95%">
+
+</div>
+
+---
+
+<div align="center">
+
+# 🧠 LANGUAGE ANALYTICS
+
+<img src="./languages.svg" width="80%">
+
+</div>
+
+---
+
+<div align="center">
+
+# 🏆 GITHUB TROPHIES
+
+<img src="https://github-profile-trophy.vercel.app/?username=anshumaaann&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6" width="95%">
+
+</div>
+
+---
+
+<table align="center">
 <tr>
-<td width="60%" valign="top">
+<td align="center">
 
-I'm a Computer Science student focused on **Artificial Intelligence, Software Development and Problem Solving**.
+### 🤖 AI / ML
 
-I enjoy taking an idea, turning it into code, breaking it, fixing it and learning from the process.
-
-### CURRENTLY LEARNING
-
-`AI / ML` • `Deep Learning` • `NLP` • `DSA` • `Software Engineering`
+Machine Learning  
+Deep Learning  
+NLP  
+Neural Networks
 
 </td>
 
-<td width="40%" valign="top">
+<td align="center">
+
+### 💻 SOFTWARE
+
+Development  
+Git & GitHub  
+Programming  
+Problem Solving
+
+</td>
+
+<td align="center">
+
+### 🧩 DSA
+
+Algorithms  
+Data Structures  
+Logic  
+Optimization
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# 🚀 BUILD LOOP
 
 ```text
-SYSTEM STATUS
-──────────────
-
-● LEARNING
-● BUILDING
-● DEBUGGING
-● IMPROVING
-
-MODE
-────
-BUILD > BREAK > FIX
+IDEA
+ ↓
+BUILD
+ ↓
+BREAK
+ ↓
+DEBUG
+ ↓
+IMPROVE
+ ↓
+REPEAT
