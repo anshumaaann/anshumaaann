@@ -3,7 +3,12 @@ name: GitHub Profile Metrics
 on:
   schedule:
     - cron: "0 0 * * *"
+
   workflow_dispatch:
+
+  push:
+    branches:
+      - main
 
 jobs:
 
@@ -18,7 +23,6 @@ jobs:
       contents: write
 
     steps:
-
       - name: 📊 Profile overview
         uses: lowlighter/metrics@latest
         with:
@@ -42,7 +46,6 @@ jobs:
       contents: write
 
     steps:
-
       - name: 🧊 Isometric contribution calendar
         uses: lowlighter/metrics@latest
         with:
@@ -68,7 +71,6 @@ jobs:
       contents: write
 
     steps:
-
       - name: 🈷️ Languages
         uses: lowlighter/metrics@latest
         with:
@@ -96,7 +98,6 @@ jobs:
       contents: write
 
     steps:
-
       - name: 📊 Coding habits
         uses: lowlighter/metrics@latest
         with:
@@ -123,7 +124,6 @@ jobs:
       contents: write
 
     steps:
-
       - name: 🏆 Achievements
         uses: lowlighter/metrics@latest
         with:
@@ -149,7 +149,6 @@ jobs:
       contents: write
 
     steps:
-
       - name: 🔥 Recent activity
         uses: lowlighter/metrics@latest
         with:
