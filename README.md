@@ -2,225 +2,122 @@
 
 # ANSHUMAN MISHRA
 
-`AI • SOFTWARE • BUILDER`
+### `AI • SOFTWARE • BUILDER`
 
-Building useful things, learning continuously, and getting better at engineering.
+**Building things that solve real problems.**
 
-<br>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=anshumaaann&style=flat-square&color=58A6FF&label=PROFILE+VIEWS)](https://github.com/anshumaaann)
-[![Followers](https://img.shields.io/github/followers/anshumaaann?style=flat-square&color=58A6FF&label=FOLLOWERS)](https://github.com/anshumaaann)
-[![Stars](https://img.shields.io/github/stars/anshumaaann?style=flat-square&color=58A6FF&label=STARS)](https://github.com/anshumaaann)
+`Code` • `Learn` • `Build` • `Repeat`
 
 </div>
 
 <br>
 
-<table>
+<table width="100%">
 <tr>
+
+<!-- ========================================================= -->
+<!-- LEFT SIDEBAR -->
+<!-- ========================================================= -->
 
 <td width="25%" valign="top">
 
-## Anshuman
+<div align="center">
 
-Computer Science student interested in:
+<img src="https://github.com/anshumaaann.png" width="150" height="150" style="border-radius:50%;">
 
-**Artificial Intelligence**  
-**Software Engineering**  
-**Machine Learning**  
-**DSA & Problem Solving**
+# Anshuman Mishra
 
-<br>
+`AI • SOFTWARE • BUILDER`
 
-Currently learning:
+</div>
 
-`Python`  
-`AI / ML`  
-`DSA`  
-`Software Development`
+---
 
-<br>
+### About
 
-[GitHub](https://github.com/anshumaaann) •
-[LinkedIn](#)
+Computer Science student interested in building useful software and exploring Artificial Intelligence.
+
+I learn by **building real things**, breaking them, fixing them, and improving them.
+
+---
+
+### Focus
+
+**AI / ML**
+
+`████████████████░░░░` 80%
+
+**Software Development**
+
+`██████████████░░░░░░` 70%
+
+**DSA**
+
+`█████████████░░░░░░░` 65%
+
+**Deep Learning**
+
+`████████████░░░░░░░░` 60%
+
+---
+
+### Currently Learning
+
+`Python`
+
+`Machine Learning`
+
+`Deep Learning`
+
+`NLP`
+
+`DSA`
+
+`Software Engineering`
+
+---
+
+<div align="center">
+
+[GitHub](https://github.com/anshumaaann)
+
+</div>
 
 </td>
+
+<!-- ========================================================= -->
+<!-- MAIN CONTENT -->
+<!-- ========================================================= -->
 
 <td width="75%" valign="top">
 
-### Welcome to my GitHub
-
-> Exploring ideas, building projects, and learning by doing.
-
-<br>
-
-<table>
+<table width="100%">
 <tr>
 
-<td align="center">
+<td width="70%" valign="top">
 
-**56**
+## Hello, I'm Anshuman 👋
 
-<br>
+# I build things that  
+# **solve real problems.**
 
-<sub>CONTRIBUTIONS</sub>
-
-</td>
-
-<td align="center">
-
-**8**
+`AI` • `Software` • `Problem Solving`
 
 <br>
 
-<sub>REPOSITORIES</sub>
+Learning AI + Software Engineering and turning ideas into working projects.
 
 </td>
 
-<td align="center">
-
-**14**
-
-<br>
-
-<sub>STARS</sub>
-
-</td>
-
-<td align="center">
-
-**1**
-
-<br>
-
-<sub>FOLLOWERS</sub>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-### Contributions
-
-<img src="./isocalendar.svg" width="100%">
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
----
-
-## Technology
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,git,github,vscode,tensorflow,pytorch&perline=12">
-
-</div>
-
-<br>
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### Languages
-
-<img src="./languages.svg" width="100%">
-
-</td>
-
-<td width="50%" valign="top">
-
-### Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anshumaaann&bg_color=0D1117&color=58A6FF&line=238636&point=58A6FF&area=true&hide_border=true" width="100%">
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
----
-
-## Projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### AI / ML
-
-Projects exploring:
-
-- Machine Learning
-- Deep Learning
-- NLP
-- AI applications
-
-</td>
-
-<td width="50%" valign="top">
-
-### Software
-
-Projects focused on:
-
-- Python
-- Web development
-- APIs
-- Software engineering
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### DSA
-
-Working on:
-
-- Data Structures
-- Algorithms
-- Problem Solving
-- Competitive programming
-
-</td>
-
-<td width="50%" valign="top">
-
-### Learning
-
-Currently exploring:
-
-- AI engineering
-- System design
-- Better development practices
-- Real-world projects
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
----
-
-<div align="center">
-
-### `BUILD • LEARN • IMPROVE`
-
-</div>
+<td width="30%" align="center" valign="middle">
+
+```text
+BUILD
+  ↓
+LEARN
+  ↓
+BREAK
+  ↓
+FIX
+  ↓
+IMPROVE
