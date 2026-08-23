@@ -10,7 +10,6 @@
 
 <img src="https://img.shields.io/github/followers/anshumaaann?style=for-the-badge&label=FOLLOWERS">
 <img src="https://img.shields.io/github/stars/anshumaaann?style=for-the-badge&label=STARS">
-<img src="https://komarev.com/ghpvc/?username=anshumaaann&style=for-the-badge&label=PROFILE+VIEWS">
 
 </div>
 
@@ -21,27 +20,37 @@
 <table>
 <tr>
 
-<td width="33%" align="center" valign="top">
+<td width="50%" valign="top" align="center">
 
-### 👤 PROFILE
-
-<img src="./github-metrics.svg" width="100%">
+<img src="./profile.svg" width="100%">
 
 </td>
 
-<td width="34%" align="center" valign="top">
-
-### 📈 ACTIVITY
+<td width="50%" valign="top" align="center">
 
 <img src="./activity.svg" width="100%">
 
 </td>
 
-<td width="33%" align="center" valign="top">
+</tr>
+</table>
 
-### 🧠 HABITS
+<br>
+
+---
+
+<table>
+<tr>
+
+<td width="50%" valign="top" align="center">
 
 <img src="./habits.svg" width="100%">
+
+</td>
+
+<td width="50%" valign="top" align="center">
+
+<img src="./languages.svg" width="100%">
 
 </td>
 
@@ -54,9 +63,7 @@
 
 <div align="center">
 
-### 🧊 CONTRIBUTION CALENDAR
-
-<img src="./isocalendar.svg" width="90%">
+<img src="./isocalendar.svg" width="92%">
 
 </div>
 
@@ -67,19 +74,15 @@
 <table>
 <tr>
 
-<td width="50%" align="center" valign="top">
+<td width="50%" valign="top" align="center">
 
-### 💻 LANGUAGES
-
-<img src="./languages.svg" width="100%">
+<img src="./achievements.svg" width="100%">
 
 </td>
 
-<td width="50%" align="center" valign="top">
+<td width="50%" valign="top" align="center">
 
-### 🏆 ACHIEVEMENTS
-
-<img src="./achievements.svg" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anshumaaann&bg_color=0D1117&color=58A6FF&line=238636&point=58A6FF&area=true&hide_border=true" width="100%">
 
 </td>
 
@@ -92,7 +95,7 @@
 
 <div align="center">
 
-### ⚡ TECHNOLOGY
+## ⚡ TECHNOLOGY
 
 <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,git,github,vscode,tensorflow,pytorch&perline=8">
 
@@ -105,26 +108,45 @@
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="33%" align="center">
 
-## 🤖 AI / ML
+### 🤖 AI / ML
 
-- Machine Learning
-- Deep Learning
-- Natural Language Processing
-- Neural Networks
+`Machine Learning`
+
+`Deep Learning`
+
+`NLP`
+
+`Neural Networks`
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" align="center">
 
-## 💻 SOFTWARE
+### 💻 SOFTWARE
 
-- Python
-- C / C++
-- JavaScript
-- Git & GitHub
-- Software Engineering
+`Python`
+
+`C / C++`
+
+`JavaScript`
+
+`Git / GitHub`
+
+</td>
+
+<td width="33%" align="center">
+
+### 🧩 DSA
+
+`Algorithms`
+
+`Data Structures`
+
+`Problem Solving`
+
+`Optimization`
 
 </td>
 
