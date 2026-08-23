@@ -1,123 +1,107 @@
-<div align="center">
-
-# ANSHUMAN MISHRA
-
-### `AI • SOFTWARE • BUILDER`
-
-**Building things that solve real problems.**
-
-`Code` • `Learn` • `Build` • `Repeat`
-
-</div>
-
-<br>
-
-<table width="100%">
-<tr>
-
-<!-- ========================================================= -->
-<!-- LEFT SIDEBAR -->
-<!-- ========================================================= -->
-
-<td width="25%" valign="top">
-
-<div align="center">
-
-<img src="https://github.com/anshumaaann.png" width="150" height="150" style="border-radius:50%;">
-
 # Anshuman Mishra
 
-`AI • SOFTWARE • BUILDER`
+### Computer Science Student · AI/ML · Software Development
 
-</div>
+I'm a Computer Science student interested in **Artificial Intelligence, Machine Learning, and Software Engineering**.
 
----
-
-### About
-
-Computer Science student interested in building useful software and exploring Artificial Intelligence.
-
-I learn by **building real things**, breaking them, fixing them, and improving them.
+I enjoy building practical projects, solving problems, and continuously improving my understanding of how software and intelligent systems work.
 
 ---
 
-### Focus
+## Interests
+
+- Artificial Intelligence & Machine Learning
+- Software Engineering
+- Data Structures & Algorithms
+- Deep Learning
+- Natural Language Processing
+- Problem Solving
+
+---
+
+## Education
+
+**Master of Computer Applications (MCA)**  
+University of Mumbai
+
+Currently focused on strengthening my foundations in **software development, AI/ML, and problem solving**.
+
+---
+
+## Projects
+
+### AI & Machine Learning
+
+Building projects to explore machine learning, deep learning, NLP, and practical AI applications.
+
+**Focus:** Python · Machine Learning · Deep Learning · NLP
+
+---
+
+### Software Development
+
+Developing practical applications and tools while learning better software engineering practices.
+
+**Focus:** Python · C++ · JavaScript · APIs · Git
+
+---
+
+### Data Structures & Algorithms
+
+Working consistently on data structures, algorithms, and problem-solving patterns.
+
+**Focus:** Python · C++ · Algorithms · Problem Solving
+
+---
+
+## Tech Stack
+
+**Languages**
+
+`Python` `C` `C++` `Java` `JavaScript`
 
 **AI / ML**
 
-`████████████████░░░░` 80%
+`Machine Learning` `Deep Learning` `NLP` `TensorFlow` `PyTorch`
 
-**Software Development**
+**Tools & Development**
 
-`██████████████░░░░░░` 70%
-
-**DSA**
-
-`█████████████░░░░░░░` 65%
-
-**Deep Learning**
-
-`████████████░░░░░░░░` 60%
+`Git` `GitHub` `VS Code` `HTML` `CSS`
 
 ---
 
-### Currently Learning
+## Currently Learning
 
-`Python`
+- Machine Learning & Deep Learning
+- Natural Language Processing
+- Data Structures & Algorithms
+- Software Engineering
+- Building production-oriented projects
 
-`Machine Learning`
+---
 
-`Deep Learning`
+## What I'm Looking For
 
-`NLP`
+I'm interested in opportunities where I can:
 
-`DSA`
+- Build real-world software
+- Work with AI/ML technologies
+- Learn from experienced engineers
+- Solve meaningful technical problems
+- Grow into a strong software / AI engineer
 
-`Software Engineering`
+---
+
+## Connect
+
+**GitHub:** [github.com/anshumaaann](https://github.com/anshumaaann)
+
+**LinkedIn:** [Connect with me](#)
 
 ---
 
 <div align="center">
 
-[GitHub](https://github.com/anshumaaann)
+**Build. Learn. Improve.**
 
 </div>
-
-</td>
-
-<!-- ========================================================= -->
-<!-- MAIN CONTENT -->
-<!-- ========================================================= -->
-
-<td width="75%" valign="top">
-
-<table width="100%">
-<tr>
-
-<td width="70%" valign="top">
-
-## Hello, I'm Anshuman 👋
-
-# I build things that  
-# **solve real problems.**
-
-`AI` • `Software` • `Problem Solving`
-
-<br>
-
-Learning AI + Software Engineering and turning ideas into working projects.
-
-</td>
-
-<td width="30%" align="center" valign="middle">
-
-```text
-BUILD
-  ↓
-LEARN
-  ↓
-BREAK
-  ↓
-FIX
-  ↓
-IMPROVE
