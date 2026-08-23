@@ -20,15 +20,15 @@
 <table>
 <tr>
 
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
 <img src="./profile.svg" width="100%">
 
 </td>
 
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
-<img src="./activity.svg" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anshumaaann&bg_color=0D1117&color=58A6FF&line=238636&point=58A6FF&area=true&hide_border=true" width="100%">
 
 </td>
 
@@ -42,15 +42,15 @@
 <table>
 <tr>
 
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
-<img src="./habits.svg" width="100%">
+<img src="./languages.svg" width="100%">
 
 </td>
 
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
-<img src="./languages.svg" width="100%">
+<img src="./stargazers.svg" width="100%">
 
 </td>
 
@@ -63,7 +63,7 @@
 
 <div align="center">
 
-<img src="./isocalendar.svg" width="92%">
+<img src="./isocalendar.svg" width="90%">
 
 </div>
 
@@ -74,20 +74,30 @@
 <table>
 <tr>
 
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
-<img src="./achievements.svg" width="100%">
+<img src="./repositories.svg" width="100%">
 
 </td>
 
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anshumaaann&bg_color=0D1117&color=58A6FF&line=238636&point=58A6FF&area=true&hide_border=true" width="100%">
+<img src="./calendar.svg" width="100%">
 
 </td>
 
 </tr>
 </table>
+
+<br>
+
+---
+
+<div align="center">
+
+<img src="./notable.svg" width="90%">
+
+</div>
 
 <br>
 
