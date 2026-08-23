@@ -1,14 +1,10 @@
 <div align="center">
 
-<img src="./github-metrics.svg" width="100%">
-
-<br>
-
 # ANSHUMAN MISHRA
 
 ### `AI • SOFTWARE • BUILDER`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+things+that+actually+work.;Learning+AI+%2B+Software+Engineering.;Turning+ideas+into+projects.;Always+learning.+Always+building.">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2600&pause=700&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+things+that+actually+work.;Learning+AI+%2B+Software+Engineering.;Turning+ideas+into+projects.;Always+learning.+Always+building.">
 
 <br><br>
 
@@ -22,40 +18,125 @@
 
 ---
 
+<table>
+<tr>
+
+<td width="33%" align="center" valign="top">
+
+### 👤 PROFILE
+
+<img src="./github-metrics.svg" width="100%">
+
+</td>
+
+<td width="34%" align="center" valign="top">
+
+### 📈 ACTIVITY
+
+<img src="./activity.svg" width="100%">
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### 🧠 HABITS
+
+<img src="./habits.svg" width="100%">
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+---
+
 <div align="center">
 
-## ⚡ ABOUT
+### 🧊 CONTRIBUTION CALENDAR
+
+<img src="./isocalendar.svg" width="90%">
 
 </div>
+
+<br>
+
+---
+
+<table>
+<tr>
+
+<td width="50%" align="center" valign="top">
+
+### 💻 LANGUAGES
+
+<img src="./languages.svg" width="100%">
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+### 🏆 ACHIEVEMENTS
+
+<img src="./achievements.svg" width="100%">
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+---
+
+<div align="center">
+
+### ⚡ TECHNOLOGY
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,git,github,vscode,tensorflow,pytorch&perline=8">
+
+</div>
+
+<br>
+
+---
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 👨‍💻 WHO I AM
+## 🤖 AI / ML
 
-Computer Science student focused on:
-
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 💻 Software Development
-- 🧩 Data Structures & Algorithms
-- 🔬 Natural Language Processing
-
-I learn primarily by **building real projects**, breaking them, debugging them, and improving them.
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Neural Networks
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🎯 CURRENT FOCUS
+## 💻 SOFTWARE
 
-```text
-AI / ML             ███████████████░░░  75%
+- Python
+- C / C++
+- JavaScript
+- Git & GitHub
+- Software Engineering
 
-Software            ██████████████░░░░  70%
+</td>
 
-DSA                 ███████████░░░░░░░  55%
+</tr>
+</table>
 
-Problem Solving     ████████████░░░░░░  60%
+<br>
+
+---
+
+<div align="center">
+
+### `BUILD • LEARN • BREAK • FIX • REPEAT`
+
+</div>
