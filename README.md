@@ -1,10 +1,31 @@
-# Anshuman Mishra
+<div align="center">
 
-### Computer Science Student · AI/ML · Software Development
+# ANSHUMAN MISHRA
+
+### `AI • SOFTWARE • BUILDER`
+
+**Computer Science Student | AI/ML | Software Development**
+
+Building practical things, solving problems, and learning continuously.
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anshumaaann)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Learning+AI+%2B+Software+Engineering;Building+real-world+projects;Solving+problems+one+step+at+a+time">
+
+</div>
+
+---
+
+## About Me
 
 I'm a Computer Science student interested in **Artificial Intelligence, Machine Learning, and Software Engineering**.
 
-I enjoy building practical projects, solving problems, and continuously improving my understanding of how software and intelligent systems work.
+I enjoy learning by building — turning concepts into projects, experimenting with new technologies, and improving my problem-solving skills along the way.
 
 ---
 
@@ -32,76 +53,34 @@ Currently focused on strengthening my foundations in **software development, AI/
 
 ### AI & Machine Learning
 
-Building projects to explore machine learning, deep learning, NLP, and practical AI applications.
+Exploring machine learning, deep learning, NLP, and practical AI applications.
 
-**Focus:** Python · Machine Learning · Deep Learning · NLP
+`Python` · `Machine Learning` · `Deep Learning` · `NLP`
 
 ---
 
 ### Software Development
 
-Developing practical applications and tools while learning better software engineering practices.
+Building practical applications and experimenting with different approaches to software development.
 
-**Focus:** Python · C++ · JavaScript · APIs · Git
+`Python` · `C++` · `JavaScript` · `APIs` · `Git`
 
 ---
 
 ### Data Structures & Algorithms
 
-Working consistently on data structures, algorithms, and problem-solving patterns.
+Improving problem-solving ability through consistent practice with algorithms and data structures.
 
-**Focus:** Python · C++ · Algorithms · Problem Solving
-
----
-
-## Tech Stack
-
-**Languages**
-
-`Python` `C` `C++` `Java` `JavaScript`
-
-**AI / ML**
-
-`Machine Learning` `Deep Learning` `NLP` `TensorFlow` `PyTorch`
-
-**Tools & Development**
-
-`Git` `GitHub` `VS Code` `HTML` `CSS`
+`Python` · `C++` · `Algorithms` · `Problem Solving`
 
 ---
 
 ## Currently Learning
 
-- Machine Learning & Deep Learning
-- Natural Language Processing
-- Data Structures & Algorithms
-- Software Engineering
-- Building production-oriented projects
-
----
-
-## What I'm Looking For
-
-I'm interested in opportunities where I can:
-
-- Build real-world software
-- Work with AI/ML technologies
-- Learn from experienced engineers
-- Solve meaningful technical problems
-- Grow into a strong software / AI engineer
-
----
-
-## Connect
-
-**GitHub:** [github.com/anshumaaann](https://github.com/anshumaaann)
-
-**LinkedIn:** [Connect with me](#)
-
----
-
-<div align="center">
-
-**Build. Learn. Improve.**
-
-</div>
+```text
+Artificial Intelligence
+Machine Learning & Deep Learning
+Natural Language Processing
+Data Structures & Algorithms
+Software Engineering
+Real-world Project Development
