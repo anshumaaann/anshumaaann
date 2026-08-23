@@ -14,70 +14,119 @@
 Developing practical software.  
 Solving problems that matter.**
 
-`AI` · `ML` · `Software` · `DSA` · `Deep Learning`
+`AI` · `Machine Learning` · `Software` · `DSA` · `Deep Learning`
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anshumaaann)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anshumaaanmishra)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anshumaaaann_)
+<a href="https://github.com/anshumaaann">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+&nbsp;
+
+<a href="https://linkedin.com/in/anshumaaanmishra">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+&nbsp;
+
+<a href="https://instagram.com/anshumaaaann_">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
 
 </div>
-
----
-
-## 🚀 Projects
-
-A collection of things I'm building while learning AI, software engineering,
-and problem solving.
-
-<div align="center">
-
-| Project | Description | Technologies |
-|:---|:---|:---|
-| **Project 01** | AI / ML project | `Python` · `ML` |
-| **Project 02** | Software development project | `Python` · `C++` |
-| **Project 03** | Application / experimental project | `JavaScript` · `API` |
-
-</div>
-
-### 📂 All Projects
-
-Explore all my repositories and ongoing work:
-
-**[→ View All Repositories](https://github.com/anshumaaann?tab=repositories)**
 
 ---
 
 ## 🎓 Education
 
 **Master of Computer Applications (MCA)**  
-University of Mumbai
+**D. Y. Patil University, Navi Mumbai**
 
 Currently strengthening my foundations in:
 
-`Artificial Intelligence` · `Machine Learning` · `Software Engineering` · `DSA`
+`Artificial Intelligence` · `Machine Learning` · `Software Engineering` · `Data Structures & Algorithms`
+
+---
+
+## 🎯 Interests
+
+My main areas of interest are:
+
+- Artificial Intelligence & Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Software Engineering
+- Data Structures & Algorithms
+- Problem Solving
+- Building practical applications
+
+---
+
+## 🚀 Projects
+
+I enjoy turning ideas and concepts into working software while continuously
+improving my technical and problem-solving skills.
+
+### [NOVA](https://github.com/anshumaaann/NOVA)
+
+An ongoing software project focused on building a practical and intelligent
+application while exploring modern software engineering concepts.
+
+`Software Engineering` · `AI` · `Python`
+
+**[View Repository →](https://github.com/anshumaaann/NOVA)**
+
+---
+
+### More Projects
+
+I'm continuously building and experimenting with new ideas across AI,
+machine learning and software development.
+
+As projects become more complete, they will be added here with their
+documentation, technologies and source code.
+
+<br>
+
+<div align="center">
+
+**[Explore all repositories →](https://github.com/anshumaaann?tab=repositories)**
+
+</div>
 
 ---
 
 ## 📚 Currently Learning
 
-`Artificial Intelligence`  
-`Machine Learning & Deep Learning`  
-`Natural Language Processing`  
-`Data Structures & Algorithms`  
-`Software Engineering`
+**Artificial Intelligence**  
+Machine Learning & Deep Learning  
+Natural Language Processing  
+Data Structures & Algorithms  
+Software Engineering  
+Problem Solving
 
 ---
 
-## 🌐 Connect
+## 🌐 Connect With Me
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anshumaaann)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anshumaaanmishra)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/anshumaaaann_)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anshumansunilmishra@gmail.com)
+<a href="https://github.com/anshumaaann">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://linkedin.com/in/anshumaaanmishra">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://instagram.com/anshumaaaann_">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="mailto:anshumansunilmishra@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
 </div>
 
@@ -124,5 +173,9 @@ Currently strengthening my foundations in:
 ### `BUILD • LEARN • IMPROVE`
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3200&pause=1200&color=8B949E&center=true&vCenter=true&width=500&lines=Always+learning.;Always+building.;Always+improving." />
+
+<br>
+
+<sub>Thanks for visiting my profile.</sub>
 
 </div>
